@@ -1,0 +1,80 @@
+*	{
+	margin: 0px;
+	padding: 0px;
+}
+body	{
+	background-color: white;
+}
+
+a	{
+	text-align: center;
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	font-family: arial black;
+
+}
+
+h1	{
+	font-family: arial black;
+	text-align: center;
+	margin: auto;
+	background-color: blue;
+	padding: 10px;
+}
+
+p	{		
+	font-family: arial black;
+	text-align: center;
+	color: white;
+}
+	
+header {
+	background-color: orange;
+}
+
+nav{
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;s
+}
+a:hover{
+	color: blue;
+}
+
+div.omheen{
+	width: 900px;
+	background-color: orange;
+	margin: 0 auto;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;	
+}
+
+h2{
+	font-family: arial black;
+	font-size: 24px;
+	text-align: center;
+	color: white;
+}
+
+h3{
+	font-family: arial black;
+	font-size: 24px;
+	text-align: center;
+	color: white;
+}
+
+h4{
+	font-family: arial black;
+	font-size: 24px;
+	text-align: center;
+	color: white;
+	}
+
+img.reclame{
+	position: fixed;
+	top: 130px;
+	right: 80px;
+	
+}
